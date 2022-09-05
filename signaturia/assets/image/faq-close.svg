@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="faq-close" transform="translate(-1228 -1212.507)">
+    <g id="Icon_ionic-ios-close-circle-outline" data-name="Icon ionic-ios-close-circle-outline" transform="translate(1224.625 1209.137)">
+      <path id="Path_452" data-name="Path 452" d="M18.392,17.513l-2.044-2.044,2.044-2.044a.62.62,0,0,0-.877-.877l-2.044,2.044-2.044-2.044a.62.62,0,0,0-.877.877l2.044,2.044L12.55,17.513a.6.6,0,0,0,0,.877.616.616,0,0,0,.877,0l2.044-2.044,2.044,2.044a.623.623,0,0,0,.877,0A.616.616,0,0,0,18.392,17.513Z" transform="translate(-4.096 -4.094)" fill="#202c39"/>
+    </g>
+    <path id="Path_456" data-name="Path 456" d="M11.375,19.375a8,8,0,1,0-8-8A8,8,0,0,0,11.375,19.375Zm0-1.231A6.766,6.766,0,0,1,6.59,6.59,6.766,6.766,0,1,1,16.16,16.16,6.711,6.711,0,0,1,11.375,18.144Z" transform="translate(1224.625 1209.132)" fill="#202c39"/>
+  </g>
+</svg>
